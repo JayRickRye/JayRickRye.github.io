@@ -8,11 +8,9 @@ h1{
 <style>
 p{
   text-allign:center;
-  colour:maroon;
-  background-colour:cornsilk;
 }
 
-td{
+table, td{
   boarder:1px solid maroon;
 }
 
