@@ -1,28 +1,25 @@
 <style>
-h1{
+
+.h1{
   background-color:maroon;
   color:cornsilk;
   font-size:3em;
   text-allign:center;
 }
 
-p{
+.p{
   text-allign:center;
 }
 
-td{
+.table, td{
   border:1px solid maroon;
 }
 
-table{
-  border:1px solid maroon;
-}
-
-column{
+.column{
   width:50%;
 }
 
-body{
+.body{
   background-colour:cornsilk;
   colour:maroon;
 }
