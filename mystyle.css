@@ -16,3 +16,7 @@ colour:cornsilk;
 font-style:oblique;
 }
 
+table, td{
+boarder:1px solid maroon;
+}
+
