@@ -9,19 +9,8 @@ table, td{
   border:1px solid maroon;
 }
 
-column{
-  width:50%;
-}
-
-body{
+h2{
   background-colour:cornsilk;
   colour:maroon;
-  text-allign:center;
+  text-allignment:center;
 }
-
-<style>
-body{
-  background-colour:cornsilk;
-  colour:maroon
-}
-</style>
