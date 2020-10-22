@@ -5,6 +5,7 @@ h1{
   text-allign:center;
 }
 
+<style>
 p{
   text-allign:center;
   colour:cornsilk;
@@ -18,3 +19,4 @@ td{
 column{
   width:50%;
 }
+</style>
