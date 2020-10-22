@@ -8,8 +8,8 @@ h1{
 <style>
 p{
   text-allign:center;
-  colour:cornsilk;
-  background-colour:maroon;
+  colour:maroon;
+  background-colour:cornsilk;
 }
 
 td{
@@ -18,5 +18,10 @@ td{
 
 column{
   width:50%;
+}
+
+body{
+  background-colour:cornsilk;
+  colour:maroon;
 }
 </style>
