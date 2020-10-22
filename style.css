@@ -1,18 +1,21 @@
+body{
+  background-colour:maroon;
+  colour:cornsilk;
+  text-align:center;
+}
+
 h1{
-  background-color:maroon;
   color:cornsilk;
   font-size:3em;
-  text-allign:center;
+  text-align:center;
+}
+
+p{
+  background-colour:cornsilk;
+  colour:maroon;
+  text-align:center;
 }
 
 table, td{
   border:1px solid maroon;
 }
-
-<style>
-.column{
-  float:left;
-  width:50%;
-  padding:15px;
-}
-</style>
