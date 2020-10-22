@@ -10,8 +10,12 @@ p{
   text-allign:center;
 }
 
-table, td{
-  boarder:1px solid maroon;
+td{
+  border:1px solid maroon;
+}
+
+table{
+  border:1px solid maroon;
 }
 
 column{
