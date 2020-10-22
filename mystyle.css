@@ -5,5 +5,9 @@ font-size:3em;
 }
 p.fancy{
 colour:orange;
+font-style:italic;
+}
+p.big{
+colour:red;
 font-style:oblique;
 }
