@@ -18,5 +18,6 @@ p{
 
 table, td{
   border:1px solid maroon;
-  text-align:center;
+  margin-left:auto;
+  margin-right:auto;
 }
