@@ -1,16 +1,17 @@
 h1{
-background-color:blue;
-color:yellow;
+background-color:maroon;
+color:cornsilk;
 font-size:3em;
 }
 
 p{
 text-allign:center;
-colour:orange;
+colour:cornsilk;
+background-colour:maroon;
 }
 
 p.big{
-colour:red;
+colour:cornsilk;
 font-style:oblique;
 }
 
