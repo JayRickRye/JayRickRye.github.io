@@ -1,0 +1,20 @@
+h1{
+  background-color:maroon;
+  color:cornsilk;
+  font-size:3em;
+  text-allign:center;
+}
+
+p{
+  text-allign:center;
+  colour:cornsilk;
+  background-colour:maroon;
+}
+
+table, td{
+  boarder:1px solid maroon;
+}
+
+column{
+  width:50%;
+}
