@@ -1,22 +1,21 @@
 h1{
-background-color:maroon;
-color:cornsilk;
-font-size:3em;
-text-allign:center;
+  background-color:maroon;
+  color:cornsilk;
+  font-size:3em;
+  text-allign:center;
 }
 
 p{
-text-allign:center;
-colour:cornsilk;
-background-colour:maroon;
-}
-
-p.big{
-colour:cornsilk;
-font-style:oblique;
+  text-allign:center;
+  colour:cornsilk;
+  background-colour:maroon;
 }
 
 table, td{
-boarder:1px solid maroon;
+  boarder:1px solid maroon;
+}
+
+column{
+  width:50%;
 }
 
