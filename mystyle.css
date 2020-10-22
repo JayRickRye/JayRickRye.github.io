@@ -3,10 +3,12 @@ background-color:blue;
 color:yellow;
 font-size:3em;
 }
-p.fancy{
+
+p{
 text-allign:center;
 colour:orange;
 }
+
 p.big{
 colour:red;
 font-style:oblique;
