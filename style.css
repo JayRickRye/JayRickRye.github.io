@@ -22,7 +22,7 @@ table, td{
   margin-right:auto;
 }
 
-.button{
+.button1{
   background-color:orange;
   border:none;
   color:black;
@@ -33,11 +33,6 @@ table, td{
   margin-left:auto
   transition-duration:0.4s;
   cursor:pointer;
-}
-
-.button1{
-  background-color:orange;
-  color:black;
 }
 
 .button1:hover{
